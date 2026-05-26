@@ -98,21 +98,4 @@ python app.py
 Navigate to:
 👉 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
 
----
 
-##  2-Minute Demo Pitch Script
-
-If you want to present this project to anyone (from a beginner to an expert), follow this exact flow:
-
-1. **The Hook**: Open the browser to `http://127.0.0.1:5000` and explain: *"This is BurnFit AI, a premium dashboard that uses a machine learning brain to predict exactly how many calories you burn during a workout with lab-grade precision."*
-2. **Presets**: Click the **⚡ HIIT** button in the sidebar. Let them watch the sliders move on their own, accompanied by pleasant mechanical haptic ticks, and immediately calculate the predicted calories.
-3. **Voice Chat**: Click the chatbot bubble in the bottom right corner. Enter their name in the **Athlete Name** box. Coach Aura will instantly publish a personalized welcome message and speak it aloud!
-4. **Live Metrics Analysis**: Tap the suggestion chip *"Analyze my current workout"*. Coach Aura will read the active sliders on the screen, check the ML backend, calculate the BMI, and explain their cardio fat-burn zone.
-5. **Theme Customization**: Tap the **Electric Teal** or **Active Green** color rings. Show how the neon spheres, gauges, lines, and bar-charts repaint instantly. Save the session to the local log and click **Report** to open the physical printable PDF!
-
----
-
-##  License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
-Created with ⚡ and  by the **BurnFit AI** Development Team.
