@@ -25,12 +25,16 @@ AI Fitness Assistant – Coach Aura
     
 Voice & Sound Effects
     Built-in text-to-speech lets the AI coach speak aloud. Interactive sounds make slider movements and transitions feel more engaging.
+    
 Quick Workout Presets
     Choose presets like HIIT, Lift, Yoga, or Walk to automatically adjust workout settings with smooth animations.
+    
 Custom Theme Colors
     Switch between themes like Neon Coral, Electric Teal, Active Green, and Sun Gold to personalize the app appearance.
+    
 Muscle & Energy Tracking
     Visual indicators show estimated muscle fatigue and energy usage between fat-burning and high-intensity states.
+    
 Workout History & PDF Export
     Save workout sessions in the browser and export clean PDF reports for tracking progress.
 
