@@ -12,21 +12,21 @@ By analyzing user biometrics (Age, Gender, Weight, Height) and workout intensity
 
 ---
 
-## 📸 Project Showcase & Key Features
+##  Project Showcase & Key Features
 
 We have upgraded the dashboard with several high-fidelity interactive elements designed to deliver an extreme peak-level user experience:
 
-* **⚖️ Bidirectional Glowing Decimal Inputs**: Value badges next to the parameters are active numerical text boxes supporting floating-point numbers. Typing directly (e.g. weight of `70.4 kg` or age of `25.5`) instantly repaints the slider track and runs model calculations.
-* **💬 Floating AI Fitness Advisor (Coach Aura)**: Resides in the bottom-right corner with a pulse indicator. It supports suggestion chips, dynamically reads active screen sliders, and provides personalized voice summaries.
-* **🔊 Text-to-Speech (TTS) & Web Audio Soundscape**: Coach Aura speaks to you aloud! The UI is also equipped with mechanical ticks on adjustment and sci-fi swipes on preset transitions, synthesized purely in-browser via the Web Audio API.
-* **🏃 Segmented Presets with Real-Time Slider Animations**: Instantly toggle presets (**⚡ HIIT**, **🏋️ Lift**, **🧘 Yoga**, **🚶 Walk**). Clicking a preset smoothly slides the inputs into their physiological ranges.
-* **🎨 Real-Time Ambient Accent Theme Picker**: Switch between **Neon Coral**, **Electric Teal**, **Active Green**, and **Sun Gold** to instantly recolor the neon background glow orbs, indicators, and both graphical Chart.js canvases.
-* **🧬 Muscular Heatmap & Metabolic Fuel Splitter**: Displays estimated muscular fatigue indicators and splits active aerobic (fat-burning) vs. anaerobic (glycolytic) energy states.
-* **💾 workout Logger & physical PDF Generator**: Tally and persist historical sessions inside the local browser (`localStorage`) and export physically clean PDF prints.
+*  Bidirectional Glowing Decimal Inputs**: Value badges next to the parameters are active numerical text boxes supporting floating-point numbers. Typing directly (e.g. weight of `70.4 kg` or age of `25.5`) instantly repaints the slider track and runs model calculations.
+*  Floating AI Fitness Advisor (Coach Aura)**: Resides in the bottom-right corner with a pulse indicator. It supports suggestion chips, dynamically reads active screen sliders, and provides personalized voice summaries.
+*  Text-to-Speech (TTS) & Web Audio Soundscape**: Coach Aura speaks to you aloud! The UI is also equipped with mechanical ticks on adjustment and sci-fi swipes on preset transitions, synthesized purely in-browser via the Web Audio API.
+*  Segmented Presets with Real-Time Slider Animations**: Instantly toggle presets (** HIIT**, ** Lift**, ** Yoga**, ** Walk**). Clicking a preset smoothly slides the inputs into their physiological ranges.
+*  Real-Time Ambient Accent Theme Picker**: Switch between **Neon Coral**, **Electric Teal**, **Active Green**, and **Sun Gold** to instantly recolor the neon background glow orbs, indicators, and both graphical Chart.js canvases.
+*  Muscular Heatmap & Metabolic Fuel Splitter**: Displays estimated muscular fatigue indicators and splits active aerobic (fat-burning) vs. anaerobic (glycolytic) energy states.
+*  workout Logger & physical PDF Generator**: Tally and persist historical sessions inside the local browser (`localStorage`) and export physically clean PDF prints.
 
 ---
 
-## 🧠 Machine Learning Under the Hood
+##  Machine Learning Under the Hood
 
 The predictive core is trained on **15,000 active workout profiles** to model the human metabolic output. 
 
@@ -73,7 +73,7 @@ d:\Calorie_Website/
 
 ---
 
-## 🚀 Installation & Local Setup
+##  Installation & Local Setup
 
 Get BurnFit AI running on your machine in just three simple steps:
 
@@ -100,7 +100,7 @@ Navigate to:
 
 ---
 
-## 🏃‍♂️ 2-Minute Demo Pitch Script
+##  2-Minute Demo Pitch Script
 
 If you want to present this project to anyone (from a beginner to an expert), follow this exact flow:
 
@@ -112,7 +112,7 @@ If you want to present this project to anyone (from a beginner to an expert), fo
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
-Created with ⚡ and 🧠 by the **BurnFit AI** Development Team.
+Created with ⚡ and  by the **BurnFit AI** Development Team.
