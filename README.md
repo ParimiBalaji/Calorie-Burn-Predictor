@@ -18,9 +18,9 @@ We have upgraded the dashboard with several high-fidelity interactive elements d
 
 Features
 Smart Number Inputs
-    Easily type values like weight, age, or calories directly with decimal support. Sliders update instantly and calculations run in real time.
+    *Easily type values like weight, age, or calories directly with decimal support. Sliders update instantly and calculations run in real time.
 AI Fitness Assistant – Coach Aura
-    A floating AI coach gives workout suggestions, reads your current settings, and provides voice-based fitness guidance.
+    *A floating AI coach gives workout suggestions, reads your current settings, and provides voice-based fitness guidance.
 Voice & Sound Effects
     Built-in text-to-speech lets the AI coach speak aloud. Interactive sounds make slider movements and transitions feel more engaging.
 Quick Workout Presets
