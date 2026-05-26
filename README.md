@@ -17,20 +17,20 @@ By analyzing user biometrics (Age, Gender, Weight, Height) and workout intensity
 We have upgraded the dashboard with several high-fidelity interactive elements designed to deliver an extreme peak-level user experience:
 
 Features
-## Smart Number Inputs
-** Easily type values like weight, age, or calories directly with decimal support. Sliders update instantly and calculations run in real time.
-## AI Fitness Assistant – Coach Aura
-** A floating AI coach gives workout suggestions, reads your current settings, and provides voice-based fitness guidance.
-## Voice & Sound Effects
-** Built-in text-to-speech lets the AI coach speak aloud. Interactive sounds make slider movements and transitions feel more engaging.
-## Quick Workout Presets
-** Choose presets like HIIT, Lift, Yoga, or Walk to automatically adjust workout settings with smooth animations.
-## Custom Theme Colors
-** Switch between themes like Neon Coral, Electric Teal, Active Green, and Sun Gold to personalize the app appearance.
-## Muscle & Energy Tracking
-** Visual indicators show estimated muscle fatigue and energy usage between fat-burning and high-intensity states.
-## Workout History & PDF Export
-** Save workout sessions in the browser and export clean PDF reports for tracking progress.
+Smart Number Inputs
+    Easily type values like weight, age, or calories directly with decimal support. Sliders update instantly and calculations run in real time.
+AI Fitness Assistant – Coach Aura
+    A floating AI coach gives workout suggestions, reads your current settings, and provides voice-based fitness guidance.
+Voice & Sound Effects
+    Built-in text-to-speech lets the AI coach speak aloud. Interactive sounds make slider movements and transitions feel more engaging.
+Quick Workout Presets
+    Choose presets like HIIT, Lift, Yoga, or Walk to automatically adjust workout settings with smooth animations.
+Custom Theme Colors
+    Switch between themes like Neon Coral, Electric Teal, Active Green, and Sun Gold to personalize the app appearance.
+Muscle & Energy Tracking
+    Visual indicators show estimated muscle fatigue and energy usage between fat-burning and high-intensity states.
+Workout History & PDF Export
+    Save workout sessions in the browser and export clean PDF reports for tracking progress.
 
 ---
 
