@@ -16,13 +16,21 @@ By analyzing user biometrics (Age, Gender, Weight, Height) and workout intensity
 
 We have upgraded the dashboard with several high-fidelity interactive elements designed to deliver an extreme peak-level user experience:
 
-*  Bidirectional Glowing Decimal Inputs**: Value badges next to the parameters are active numerical text boxes supporting floating-point numbers. Typing directly (e.g. weight of `70.4 kg` or age of `25.5`) instantly repaints the slider track and runs model calculations.
-*  Floating AI Fitness Advisor (Coach Aura)**: Resides in the bottom-right corner with a pulse indicator. It supports suggestion chips, dynamically reads active screen sliders, and provides personalized voice summaries.
-*  Text-to-Speech (TTS) & Web Audio Soundscape**: Coach Aura speaks to you aloud! The UI is also equipped with mechanical ticks on adjustment and sci-fi swipes on preset transitions, synthesized purely in-browser via the Web Audio API.
-*  Segmented Presets with Real-Time Slider Animations**: Instantly toggle presets (** HIIT**, ** Lift**, ** Yoga**, ** Walk**). Clicking a preset smoothly slides the inputs into their physiological ranges.
-*  Real-Time Ambient Accent Theme Picker**: Switch between **Neon Coral**, **Electric Teal**, **Active Green**, and **Sun Gold** to instantly recolor the neon background glow orbs, indicators, and both graphical Chart.js canvases.
-*  Muscular Heatmap & Metabolic Fuel Splitter**: Displays estimated muscular fatigue indicators and splits active aerobic (fat-burning) vs. anaerobic (glycolytic) energy states.
-*  workout Logger & physical PDF Generator**: Tally and persist historical sessions inside the local browser (`localStorage`) and export physically clean PDF prints.
+Features
+## Smart Number Inputs
+** Easily type values like weight, age, or calories directly with decimal support. Sliders update instantly and calculations run in real time.
+## AI Fitness Assistant – Coach Aura
+** A floating AI coach gives workout suggestions, reads your current settings, and provides voice-based fitness guidance.
+## Voice & Sound Effects
+** Built-in text-to-speech lets the AI coach speak aloud. Interactive sounds make slider movements and transitions feel more engaging.
+## Quick Workout Presets
+** Choose presets like HIIT, Lift, Yoga, or Walk to automatically adjust workout settings with smooth animations.
+## Custom Theme Colors
+** Switch between themes like Neon Coral, Electric Teal, Active Green, and Sun Gold to personalize the app appearance.
+## Muscle & Energy Tracking
+** Visual indicators show estimated muscle fatigue and energy usage between fat-burning and high-intensity states.
+## Workout History & PDF Export
+** Save workout sessions in the browser and export clean PDF reports for tracking progress.
 
 ---
 
